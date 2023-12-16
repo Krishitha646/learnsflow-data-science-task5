@@ -1,0 +1,36 @@
+Average Percentage across the dataset: 0.19931310344827588
+
+Top Users by Count:
+Segment Description
+Global results                  2676
+I'm in? College                 2325
+you a virgin? No                1696
+closely identify as? White      1572
+What's your GPA? 3.0 to 4.0     1566
+Male voters                     1562
+clubs / organizations? No       1543
+student loan debt? No           1528
+Mac or PC? Mac 🖥                1457
+Sexual orientation? Straight    1193
+Name: Count, dtype: int64
+
+Top Users by Percentage:
+Segment Description
+I'm in? High School                     0.2004
+I'm in? Post-grad                       0.2002
+Are you single? No                      0.2002
+closely identify as? Native American    0.2002
+Sexual orientation? Confused            0.2002
+Butler University                       0.2002
+University of Missouri                  0.2002
+closely identify as? White              0.2002
+Claremont McKenna College               0.2002
+you a virgin? Yes                       0.2002
+Name: Percentage, dtype: float64
+
+Influential Segments:
+Segment Type
+Mobile        0.200000
+Web           0.200000
+University    0.199992
+Name: Percentage, dtype: float64
